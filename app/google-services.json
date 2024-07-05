@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419770299031",
+    "project_id": "cruddata-98b90",
+    "storage_bucket": "cruddata-98b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419770299031:android:30762e6ca1eb353da9efd2",
+        "android_client_info": {
+          "package_name": "com.example.listgrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChyFysyYGVRZ0WqRUgYQ82jsCsyrMsLNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
